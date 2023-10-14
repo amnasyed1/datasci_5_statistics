@@ -1,9 +1,0 @@
-﻿Field Title,Field Name,Data Type,Description
-County  ,COUNTY,Plain text,County of residence
-Years,YEARS,Plain text,2-year period during which survey data were collected
-Strata,STRATA,Plain text,General demographic category under which responses have been stratified
-Age group,AGE GROUP,Plain text,"All ages, 0-17 years, 18+ years, 0-4 years, 5-17 years, 18-64 years, and 65+ years"
-Current prevalence,CURRENT PREVALENCE,Percent,Estimate of the percentage of people who report that they have ever been diagnosed with asthma AND that they still have asthma at the time of the survey (source: CHIS)
-95% Confidence interval for current prevalence,95% CONFIDENCE INTERVAL,Plain text,The current prevalence estimate is calculated from survey respondents (who represent a sample of the population) and may not reflect the true current prevalence for the entire population. This 95% confidence interval is the range of values which contains the  popuation's actual current prevalence with 95% certainty.
-Counties grouped for analysis,COUNTIES GROUPED,Plain text,Counties combined for analysis
-Comment,COMMENT,Plain text,Warning provided when prevalence estimate is statistically unstable (standard error is 30-50% of prevalence estimate). Data suppressed when standard error exceeds 50% of prevalence estimate.
